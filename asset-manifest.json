@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MovieMentor/static/css/main.02834b64.css",
+    "main.js": "/MovieMentor/static/js/main.b196b451.js",
+    "index.html": "/MovieMentor/index.html",
+    "main.02834b64.css.map": "/MovieMentor/static/css/main.02834b64.css.map",
+    "main.b196b451.js.map": "/MovieMentor/static/js/main.b196b451.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02834b64.css",
+    "static/js/main.b196b451.js"
+  ]
+}
